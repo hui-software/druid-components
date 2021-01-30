@@ -1,9 +1,10 @@
 [package]
 name = "druid-components"
 version = "0.1.0"
-authors = ["AnErW <1759101684@qq.com>"]
+authors = ["AnErW <anerwben@outlook.com>"]
 edition = "2018"
 readme = "README.md"
 
 [dependencies]
 druid = { git = "https://github.com/linebender/druid.git" }
+log = "*"
